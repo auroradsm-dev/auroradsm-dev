@@ -47,4 +47,4 @@ SQL · Amplitude · Tableau · Salesforce · Jira · Miro · Figma
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/aurora-da-silva-515a20109) · Based in France, working remote across EMEA · EU citizen
+[LinkedIn](https://www.linkedin.com/in/aurora-da-silva-515a20109) · Working remote across EMEA · EU citizen
