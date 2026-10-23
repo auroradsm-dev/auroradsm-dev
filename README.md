@@ -14,6 +14,7 @@ I like working where the customer experience, the business model and the technic
 | --- | --- | --- |
 | [**Geekasong**](https://github.com/auroradsm-dev/geekasong) · [Play](https://geekasong.com/) | A realtime party music quiz: one host device, everyone buzzes from their phone. | Cloudflare Durable Objects, buzz arbitration on the server, MusicBrainz lookups through a rate limited queue, and face morphing in the browser. |
 | [**Mypetravel**](https://github.com/auroradsm-dev/mypettravel) | An assistant for travelling abroad with a pet, putting vet appointments, documents and airline requirements in the right order. Inspired by moving countries with my dog, Jax. | A rules engine that turns task dependencies into a dated timeline, rulesets per route with inheritance, Supabase and the Claude API. |
+| [**Kestra App Monitor**](https://github.com/auroradsm-dev/kestra-app-monitor) | A Kestra 2.0 flow that checks my live apps every hour, buzzes my phone if one is down, and answers Claude when I ask whether my apps are up. | Schedule and MCP tool triggers on one flow, retries before alerts, push alerts via ntfy, secrets kept in the KV store. |
 
 ### What I've worked on
 
